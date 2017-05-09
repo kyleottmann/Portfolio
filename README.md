@@ -1,5 +1,7 @@
-# Portfolio
-Westminster College Portfolio
+# Kyle Ottmann's Portfolio
+Westminster College 2017
+
+[Kyle Ottmann Resume](/Kyle_Ottmann_Resume.pdf)
 
 [MIPS Number Adder](MIPS/)
 
